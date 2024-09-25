@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/660576785119988736/2ea4a68330fb4351b3d0224fb4d158cf/artifacts
+end_time: 1727166392752
+entry_point_name: ''
+experiment_id: '660576785119988736'
+lifecycle_stage: active
+run_id: 2ea4a68330fb4351b3d0224fb4d158cf
+run_name: sedate-roo-146
+run_uuid: 2ea4a68330fb4351b3d0224fb4d158cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727166385319
+status: 3
+tags: []
+user_id: shubh

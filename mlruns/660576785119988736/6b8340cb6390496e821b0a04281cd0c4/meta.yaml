@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/660576785119988736/6b8340cb6390496e821b0a04281cd0c4/artifacts
+deleted_time: 1727166453838
+end_time: 1727166327697
+entry_point_name: ''
+experiment_id: '660576785119988736'
+lifecycle_stage: deleted
+run_id: 6b8340cb6390496e821b0a04281cd0c4
+run_name: fun-toad-70
+run_uuid: 6b8340cb6390496e821b0a04281cd0c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727166326782
+status: 4
+tags: []
+user_id: shubh

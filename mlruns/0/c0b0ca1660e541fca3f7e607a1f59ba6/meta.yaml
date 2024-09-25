@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c0b0ca1660e541fca3f7e607a1f59ba6/artifacts
+end_time: 1727152407605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0b0ca1660e541fca3f7e607a1f59ba6
+run_name: invincible-bear-167
+run_uuid: c0b0ca1660e541fca3f7e607a1f59ba6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727152407461
+status: 3
+tags: []
+user_id: shubh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/660576785119988736/486c16cb027941ec83269448106b31dc/artifacts
+end_time: 1727268015796
+entry_point_name: ''
+experiment_id: '660576785119988736'
+lifecycle_stage: active
+run_id: 486c16cb027941ec83269448106b31dc
+run_name: sassy-shark-423
+run_uuid: 486c16cb027941ec83269448106b31dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727268011417
+status: 3
+tags: []
+user_id: shubh
